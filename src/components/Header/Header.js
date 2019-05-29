@@ -39,8 +39,8 @@ class Header extends Component {
           <div className={'nav-right nav-menu ' + menuActive}>
 
             <Link to="/" className="nav-item r-item">Home</Link>
-            <Link to="/faq" className="nav-item r-item">Features</Link>
-            <Link to="/faq" className="nav-item r-item">About</Link>
+            <Link to="/about" className="nav-item r-item">About</Link>
+            <Link to="/features" className="nav-item r-item">Features</Link>
             <Link to="/faq" className="nav-item r-item">FAQ</Link>
 
             <div className="nav-item">
